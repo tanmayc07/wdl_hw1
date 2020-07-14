@@ -1,0 +1,54 @@
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  margin-top: 50px;
+  font-weight: bold;
+}
+
+hr {
+  border: 5px solid black;
+}
+
+.content {
+  margin: 100px 0 0 20px;
+  width: 100%;
+  padding-left: 150px;
+}
+
+#map {
+  float: left;
+  width: 500px;
+}
+
+#map img {
+  padding-top: 20px;
+  height: 500px;
+}
+
+.para {
+  float: left;
+  width: 500px;
+}
+
+.para p {
+  margin-left: 10px;
+  font-weight: bold;
+  line-height: 2rem;
+}
+
+.buttons {
+  padding-top: 20px;
+  float: left;
+  margin-left: 250px;
+}
+
+.buttons button {
+  background-color: rgb(223, 25, 25);
+  border-radius: 12px;
+  padding: 10px;
+  width: 150px;
+  border: 1px solid black;
+  color: white;
+}
